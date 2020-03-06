@@ -1,0 +1,6 @@
+D:\Winform\BaiTapOOP1\BaiTapOOP1\bin\Debug\BaiTapOOP1.exe.config
+D:\Winform\BaiTapOOP1\BaiTapOOP1\bin\Debug\BaiTapOOP1.exe
+D:\Winform\BaiTapOOP1\BaiTapOOP1\bin\Debug\BaiTapOOP1.pdb
+D:\Winform\BaiTapOOP1\BaiTapOOP1\obj\Debug\BaiTapOOP1.exe
+D:\Winform\BaiTapOOP1\BaiTapOOP1\obj\Debug\BaiTapOOP1.pdb
+D:\Winform\BaiTapOOP1\BaiTapOOP1\obj\Debug\BaiTapOOP1.csprojResolveAssemblyReference.cache

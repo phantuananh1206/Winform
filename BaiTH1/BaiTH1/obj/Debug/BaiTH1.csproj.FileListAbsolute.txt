@@ -1,0 +1,6 @@
+D:\Winform\BaiTH1\BaiTH1\bin\Debug\BaiTH1.exe.config
+D:\Winform\BaiTH1\BaiTH1\bin\Debug\BaiTH1.exe
+D:\Winform\BaiTH1\BaiTH1\bin\Debug\BaiTH1.pdb
+D:\Winform\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csprojAssemblyReference.cache
+D:\Winform\BaiTH1\BaiTH1\obj\Debug\BaiTH1.exe
+D:\Winform\BaiTH1\BaiTH1\obj\Debug\BaiTH1.pdb

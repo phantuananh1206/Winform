@@ -1,0 +1,11 @@
+D:\Winform\Mang\Mang\bin\Debug\netcoreapp3.1\Mang.exe
+D:\Winform\Mang\Mang\bin\Debug\netcoreapp3.1\Mang.deps.json
+D:\Winform\Mang\Mang\bin\Debug\netcoreapp3.1\Mang.runtimeconfig.json
+D:\Winform\Mang\Mang\bin\Debug\netcoreapp3.1\Mang.runtimeconfig.dev.json
+D:\Winform\Mang\Mang\bin\Debug\netcoreapp3.1\Mang.dll
+D:\Winform\Mang\Mang\bin\Debug\netcoreapp3.1\Mang.pdb
+D:\Winform\Mang\Mang\obj\Debug\netcoreapp3.1\Mang.csprojAssemblyReference.cache
+D:\Winform\Mang\Mang\obj\Debug\netcoreapp3.1\Mang.AssemblyInfoInputs.cache
+D:\Winform\Mang\Mang\obj\Debug\netcoreapp3.1\Mang.AssemblyInfo.cs
+D:\Winform\Mang\Mang\obj\Debug\netcoreapp3.1\Mang.dll
+D:\Winform\Mang\Mang\obj\Debug\netcoreapp3.1\Mang.pdb
