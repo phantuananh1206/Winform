@@ -89,5 +89,15 @@ namespace QUANLYBANHANG
                 frmchitiet.Show();
             }
         }
+
+        private void hóaĐơnXuấtToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (!kiemTraForm("frmHOADONXUAT"))
+            {
+                frmHOADONXUAT frmhoadonxuat = new frmHOADONXUAT();
+                frmhoadonxuat.MdiParent = this;
+                frmhoadonxuat.Show();
+            }
+        }
     }
 }

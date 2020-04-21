@@ -12,17 +12,26 @@ using System.IO;
 
 namespace QUANLYBANHANG
 {
-    public partial class frmQUANLYSANPHAM : Form
+    public partial class    frmQUANLYSANPHAM : Form
     {
         SQLXULYDULIEU xulydulieu;
         String SQL;
-        private String masanpham;
+        private String masp;
 
-        public String MASANPHAM
+        public String MASP
         {
-            get { return masanpham; }
-            set { masanpham = value; }
+            get { return masp; }
+            set { masp = value; }
         }
+        private String tensp;
+
+        public String TENSP
+        {
+            get { return tensp; }
+            set { tensp = value; }
+        }
+
+        
         public frmQUANLYSANPHAM()
         {
             InitializeComponent();
@@ -39,8 +48,9 @@ namespace QUANLYBANHANG
         {
             try
             {
-                SQL = " select * from tbSANPHAM ";
-                this.dgvSANPHAM.DataSource = xulydulieu.bangDuLieu(SQL);
+                //SQL = " select * from tbSANPHAM ";
+                //this.dgvSANPHAM.DataSource = xulydulieu.bangDuLieu(SQL);
+                this.dgvSANPHAM.DataSource = xulydulieu.bangDuLieu2("psHienThiSanPham", null);
                 txtMASANPHAM.DataBindings.Clear();
                 txtMASANPHAM.DataBindings.Add("Text", this.dgvSANPHAM.DataSource, "MASP");
                 txtTENSANPHAM.DataBindings.Clear();
@@ -203,7 +213,7 @@ namespace QUANLYBANHANG
 
             SqlParameter[] pr = { prMASANPHAM };
 
-            this.dgvSANPHAM.DataSource = xulydulieu.bangDuLieu("psTimKiemSanPham", pr);
+            this.dgvSANPHAM.DataSource = xulydulieu.bangDuLieu2("psTimKiemSanPham", pr);
         }
 
         private void btnSHOW_Click(object sender, EventArgs e)

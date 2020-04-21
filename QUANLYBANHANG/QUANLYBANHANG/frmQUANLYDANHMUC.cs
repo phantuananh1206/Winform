@@ -123,7 +123,7 @@ namespace QUANLYBANHANG
                         MessageBox.Show("Sửa thất bại");
                     }
                 }
-                   }
+         }
 
         private void btnTimKiem_Click(object sender, EventArgs e)
         {

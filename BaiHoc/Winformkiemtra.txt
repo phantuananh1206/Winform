@@ -1,0 +1,93 @@
+Question 1 of 31
+Phân biệt lớp trừu tượng với giao diện?
+	1 Lớp trừu tượng có thể có các phương thức abstract và non-abstract / Interface chỉ có thể có phương thức abstract
+2 Lớp trừu tượng không hỗ trợ đa kế thừa / Interface hỗ trợ đa kế thừa
+3 Lớp trừu tượng có thể có các biến final, non-final, static và non-static / Interface chỉ có các biến static và final
+4 Lớp trừu tượng có thể có phương thức static, phương thức main và constructor / Interface không thể có phương thức static, main hoặc constructor.
+5 Từ khóa abstract được sử dụng để khai báo lớp trừu tượng / Từ khóa interface được sử dụng để khai báo Interface
+6 Lớp trừu tượng có thể cung cấp trình triển khai của Interface / Interface không cung cấp trình triển khai cụ thể của lớp abstract
+
+
+Question 2 of 31
+0.2 Points
+Định nghĩa tính đa hình (Polymorphism)?
+Tính đa hình (polymorphism): là nhiều hình thái, hình thức và nhiều kiểu tồn tại. Mỗi phương thức có cách thể hiện khác nhau trên nhiều loại đối tượng khác nhau
+
+Question 3 of 31
+0.2 Points
+Theo quyền ưu tiên của các toán tử trong C#, toán tử nào có quyền ưu tiên cao nhất?Các toán tử postfix gồm (), [], . là có quyền ưu tiên cao nhất.Điểm khác nhau giữa lệnh break và lệnh continue?
+Các toán tử postfix gồm () [] -> . ++ - -  là có quyền ưu tiên cao nhất theo thứ tự từ trái sang phải
+
+
+Question 4 of 31
+0.2 Points
+Điều khiển DataGridView là gì?
+DataGridView là một điều khiển chuyên dùng cho việc hiển thị dữ liệu dưới dạng bảng
+
+Question 5 of 31
+0.2 Points
+Lớp Abstract là gì?
+Một lớp được khai báo với từ khóa abstract là lớp abstract trong Java, cũng là một lớp mà không muốn người khác tạo ra đối tượng từ lớp này
+Một lớp abstract trong java là phải có ít nhất một phương thức abstract ( phương thức ảo ). Phương thức abstract là phương thức được khai báo với từ khóa abstract và không có tính triển khai.
+
+Question 6 of 31
+0.2 Points
+Tính trừu tượng (Abstraction) là gì?
+Tính trừu tượng là một tiến trình ẩn các chi tiết trình triển khai và chỉ hiển thị tính năng tới người dùng. Tính trừu tượng cho phép loại bỏ tính chất phức tạp của đối tượng bằng cách chỉ đưa ra các thuộc tính và phương thức cần thiết của đối tượng trong lập trình.
+
+Question 7 of 31
+0.2 Points
+Thuộc tính ConnectionString của đối tượng Connection chứa nhứng thông tin nào?
+ConnectionString là thuộc tính chứa chuỗi tham số dành cho việc kết nối đến file cơ sở dữ liệu sử dụng localDb
+
+
+Question 8 of 31
+0.2 Points
+Khi nào phương thức abstract được sử dụng?
+khi định nghĩa một đối tượng có những chức năng A,B,C trong đó tính năng A,B chắc chắn sẽ thực thi theo cách nào đó, còn tính năng C phải tùy thuộc vào đối tượng cụ thể là gì
+
+Question 9 of 31
+0.2 Points
+Liệt kê các kiểu giá trị trong C#?
+bool, byte, char, decimal, double, float, int, long, sbyte, short, uint	, ulong, ushort, Lớp (class): (string, object), Giao diện (interface), Mảng (array)
+
+Question 10 of 31
+0.2 Points
+Điểm khác nhau giữa một Interface và một lớp Abstract?
+1.Abstract class có thể kế thừa một class và nhiều interface / Interface chỉ có thể kế thừa từ nhiều interface
+
+2.Các phương thức của Abstract class được thực thi khi sử dụng từ khóa override /  Interface thì không cần
+
+3.Abstract class là lựa chọn thích hợp khi vừa khai báo các phương thức thông thường vừa khai báo các phương thức trừu tượng / Interface thích hợp cho việc khai báo duy nhất các phương thức trừu tượng
+
+4.Abstract class có thể có hàm khởi tạo / Interface không có
+
+
+Question 11 of 31
+0.2 Points
+Dot Operator (Toán tử .) là gì?
+còn được gọi là dấu phân cách hoặc dấu chấm được sử dụng để tách một biến hoặc phương thức khỏi một biến tham chiếu.  Chỉ các biến hoặc phương thức tĩnh có thể được truy cập bằng tên lớp
+
+
+Question 12 of 31
+0.2 Points
+‘runtime polymorphism’ là gì?
+là một quá trình trong đó một lời gọi đến một phương thức bị ghi đè được giải quyết trong thời gian chạy thay vì tại thời gian biên dịch.  Trong quá trình này, một phương thức được ghi đè được gọi thông qua biến tham chiếu của một super class
+
+
+Question 13 of 31
+0.2 Points
+Sự kiện Validating là sự kiện gì?
+dùng để xác nhận sự kiện nhập dữ liệu cho Textbox, kiểm tra textbox có null hay không hoặc  có đúng kiểu dữ liệu hay chưa
+
+
+Question 14 of 31
+0.2 Points
+Sinh viên hãy giải thích ý nghĩa của phương thức ExcuteScalar()
+là một phương thức của SQLCommand Thực thi truy vấn và trả về cột đầu tiên của hàng đầu tiên của tập kết quả được truy vấn trả về.  Chỉ trả về cột đầu tiên của hàng đầu tiên
+
+Question 15 of 31
+0.2 Points
+ADO.NET là gì?
+ADO.NET là một công nghệ truy cập dữ liệu từ Microsoft .NET Framework cung cấp giao tiếp giữa các hệ thống quan hệ và không liên quan thông qua một bộ các thành phần phổ biến.
+

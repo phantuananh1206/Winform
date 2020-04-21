@@ -1,0 +1,99 @@
+07:12:44	 From  Nguyễn Đức Huy-2321117989 : Hi
+07:16:12	 From  Nguyễn Đức Huy-2321117989 : không có ai
+07:20:21	 From  Nguyễn Đức Huy-2321117989 : ...
+07:26:58	 From  THUẬN NGUYỄN TẤN : S 414-Lap Trinh Winform C#-2020S-Lecture Slides-11.pdf 
+07:27:29	 From  Phan Thị Diệu Hiền : bên lecture á
+07:28:05	 From  Nguyễn Đức Huy-2321117989 : form xuất hoá đơn vẫn chưa xong thầy ơi
+07:28:35	 From  Nguyễn Đức Huy-2321117989 : dạ
+07:30:20	 From  Bùi Hữu Dự : chào Thanh tú
+07:33:11	 From  Nguyễn Đức Huy-2321117989 : mic hơi nhỏ Thầy ơi
+07:53:47	 From  Lê Thị Diễm Quỳnh - 2320215994 : rồi thầy 
+07:59:10	 From  Trần Viết Nhân : Thầy mô tả cho bọn em về cái form trước dược không. như à nút them thì them vào bảng nào lấy dử liệu từ đâu. rồi xóa là xóa cái gì ...
+08:01:16	 From  Lê Thị Diễm Quỳnh - 2320215994 : share màn hình thầy ơi
+08:01:18	 From  Mai Thị Thu Trang : share màn hình thầy ơi
+08:02:11	 From  Trần Viết Nhân : vậy 2 bảng này quan hệ 1 1 hả thầy
+08:02:19	 From  Phan Tuấn Anh - 2321122511 : Vậy các thông tin để thêm vào chi tiết hóa đơn là tự nhập hay sao thầy
+08:02:34	 From  Phan Tuấn Anh - 2321122511 : 1 hóa đơn có nhiều chi tiết
+08:02:51	 From  Lê Thị Diễm Quỳnh - 2320215994 : hình như tự nhập vào datagridview 
+08:03:29	 From  Trần Viết Nhân : vậy kiểm tra hóa đơn nếu chưa có thì them vào còn không có thì them mới đúng k thầy 
+08:03:54	 From  Nguyễn Đức Huy-2321117989 : chưa có vs không có là 1 mà
+08:05:41	 From  Lê Thị Diễm Quỳnh - 2320215994 : rồi thầy 
+08:05:51	 From  Đỗ Hoài Linh : dạ
+08:08:31	 From  Dương Ngọc Huy - 4589 : mic thầy bị chi rứa thầy 
+08:08:50	 From  Dương Ngọc Huy - 4589 : nghe lúc dc lúc ko
+08:09:00	 From  Phan Tuấn Anh - 2321122511 : nghe bth mà @@
+08:09:09	 From  Phan Thị Diệu Hiền : đuo
+08:09:14	 From  Phan Thị Diệu Hiền : bth thầy
+08:09:20	 From  Phan Tuấn Anh - 2321122511 : do đường truyền đó 
+08:14:40	 From  Phan Tuấn Anh - 2321122511 : Lỡ 2 khách hàng trùng tên thì làm sao để mình biết được mã nào là của ai để thêm hóa đơn xuất 1 cách chính xác thầy
+08:17:36	 From  Phan Tuấn Anh - 2321122511 : dạ e cảm ơn thầy 
+08:19:11	 From  Nguyễn Phương Thảo : thầy ơi
+08:19:22	 From  Nguyễn Đức Huy-2321117989 : thầy răn em them sodienthoai vào nó lại ở xa lắc nhau Thầy ơi
+08:19:25	 From  Nguyễn Phương Thảo : e bị lỗi cái sql
+08:19:30	 From  Nguyễn Phương Thảo : thầy xem e với
+08:19:36	 From  Nguyễn Đức Huy-2321117989 : dạ oke
+08:19:42	 From  Nguyễn Phương Thảo : dạ k phải
+08:24:47	 From  Phan Tuấn Anh - 2321122511 : desktop going mình nè, không có 1 phần mềm game nào, chỉ phục vụ cho học tập
+08:25:17	 From  Mai Thị Thu Trang : nói ko biết ngượng :)
+08:25:19	 From  Đỗ Hoài Linh : =))
+08:25:38	 From  Phan Thị Diệu Hiền : ok b A k choi game
+08:25:38	 From  Phan Tuấn Anh - 2321122511 : ý mình là mình nói desktop
+08:25:45	 From  Phan Tuấn Anh - 2321122511 : chứ game mình giấu trong thư mục r
+08:25:46	 From  Phan Tuấn Anh - 2321122511 : :))))
+08:25:48	 From  Nguyễn Đức Huy-2321117989 : "mình chơi bằng máy tính khác"
+08:26:11	 From  Mai Thị Thu Trang : tưởng đâu ko chơi thì đừng rủ mình chơi nữa nha
+08:26:30	 From  Huỳnh Minh Trí-9574 : giấu game.đó là biểu hiện của sự lươn lẹo 
+08:28:23	 From  Trần Viết Nhân : Mấy lỗi này mấy bạn có thể len hệ bạn Tuấn Anh để được hỗ trợ miễn phí nhé .. 
+08:28:35	 From  Huỳnh Minh Trí-9574 : :))
+08:29:05	 From  Mai Thị Thu Trang : Mình mới ăn sáng xong 
+08:29:12	 From  Mai Thị Thu Trang : Thầy và mấy bạn đã ăn chưa
+08:29:19	 From  Nguyễn Đức Huy-2321117989 : ăn gì dậy
+08:30:00	 From  Mai Thị Thu Trang : mình ăn bít tết đó bạn, ghê chưa
+08:30:09	 From  Nguyễn Đức Huy-2321117989 : rich
+08:30:16	 From  Nguyễn Long Phi : vãi báo thức samsung
+08:30:16	 From  Nguyễn Đức Huy-2321117989 : vl báo thức
+08:30:21	 From  Mai Thị Thu Trang : nhạc chuông ám ảnh =)))
+08:30:22	 From  Nguyễn Đức Huy-2321117989 : ám ảnh quá đêy
+08:30:28	 From  Nguyễn Đức Huy-2321117989 : tắt đi trời ơi
+08:30:48	 From  Phan Tuấn Anh - 2321122511 : @@ xài cục gạch suốt, không biết nhạc chuông đó luôn
+08:30:49	 From  Huỳnh Minh Trí-9574 : ờ t tưởng đt t nữa chứ
+08:30:57	 From  Huỳnh Minh Trí-9574 : chạy đi xem 
+08:31:00	 From  Huỳnh Minh Trí-9574 : hóa ra
+08:31:02	 From  Nguyễn Quang Hải : ông nào biết lỗi "Object reference not set to an instance of an object" sữa sao không giúp tôi với :)
+08:31:24	 From  Mai Thị Thu Trang : có thể dịch luôn rồi gửi qua được mà :))))
+08:38:19	 From  Nguyễn Đức Huy-2321117989  to  Nguyễn Quang Hải(Privately) : có một đối tượng hoặc một object  nào đó bạn đang sử dụng nhưng nó chưa được khởi tạo thì lúc này giá trị của nó sẽ là NULL vào khi bạn gọi một object với khi nó đang mang giá trị NULL thì lập tức một exception sẽ văng ra 
+08:38:29	 From  Nguyễn Long Phi : share full đi thầy
+08:48:09	 From  Nguyễn Đức Huy-2321117989 : (∪.∪ )...zzz
+08:48:27	 From  Nguyễn Đức Huy-2321117989 : (￣o￣) . z Z
+08:48:56	 From  Nguyễn Đức Huy-2321117989 : (☞ﾟヮﾟ)☞
+08:49:08	 From  Nguyễn Đức Huy-2321117989 : ☜(ﾟヮﾟ☜)
+08:50:23	 From  Nguyễn Đức Huy-2321117989 : ^(*￣(oo)￣)^
+08:50:37	 From  Nguyễn Đức Huy-2321117989 : (┬┬﹏┬┬)
+08:50:44	 From  Trần Viết Nhân : Đừng spam Huy
+08:50:53	 From  Nguyễn Đức Huy-2321117989 : ┗( T﹏T )┛
+09:12:24	 From  Phan Tuấn Anh - 2321122511 : 2
+09:12:24	 From  Phan Tuấn Anh - 2321122511 : 3
+09:31:28	 From  Huỳnh Minh Trí-9574  to  Nguyễn Đức Huy-2321117989(Privately) : nhờ tí huy ơi tôi out sớm nhá có gì tí nói thầy nha
+09:34:00	 From  Trần Viết Nhân : Em nghĩ là nên bắt 1 sự kiện click để lấy index của gridview riêng
+09:59:29	 From  Trần Viết Nhân : Em thấy trong chi tiết hóa đơn mình có mấy cột đơn giá số lương vậy có dư không thầy. trong khi mình chỉ cần có mã sản phẩm là tự lien kết mấy cột đó bên bảng sản phẩm rồi
+09:59:43	 From  Nguyễn Đức Huy-2321117989 : sao đơn giá mặc định là 3 hả Thầy
+10:00:59	 From  Phan Tuấn Anh - 2321122511 : cột đơn giá với số lượng ở chi tiết hóa đơn sẽ lấy dữ liệu được nhập từ datagridview khi ấn nút thêm mà nhân
+10:02:39	 From  Phan Tuấn Anh - 2321122511 : ủa
+10:02:46	 From  Phan Tuấn Anh - 2321122511 : có mình t bị văng hả
+10:02:54	 From  Lê Thị Diễm Quỳnh - 2320215994 : mới out a
+10:03:03	 From  Lê Thị Diễm Quỳnh - 2320215994 : t nữa
+10:03:23	 From  Dương Ngọc Huy - 4589 : t nữa 
+10:05:01	 From  Phan Tuấn Anh - 2321122511 : cái này để xuất mà
+10:05:09	 From  Phan Tuấn Anh - 2321122511 : nó đâu phải lấy từ bên sản phẩm đâu nhân
+10:05:20	 From  Phan Tuấn Anh - 2321122511 : cái này để bán á
+10:05:33	 From  Phan Tuấn Anh - 2321122511 : còn sản phẩm là số lượng kiểu như trong kho
+10:05:43	 From  Lê Thị Diễm Quỳnh - 2320215994 : đúng rồi :)))
+10:05:52	 From  Phan Tuấn Anh - 2321122511 : sau này xử lý thêm số lượng còn trong sản phẩm 
+10:05:58	 From  Phan Tuấn Anh - 2321122511 : là lấy nó trừ cho số lượng ở bên chi tiết hóa đơn
+10:09:28	 From  THUẬN NGUYỄN TẤN : public partial class frmHOADONXUAT : Form    {        SQLXULYDULIEU xulydulieu;        String SQL;        DataTable tbCHITIETHOADON;        public frmHOADONXUAT()        {            InitializeComponent();        }        public void LoadComboBoxKhachhang()        {                        SQL = " select MAKHACHHANG, TENKHACHHANG FROM tbKHACHHANG ";            this.cobKHACHHANG.DataSource = xulydulieu.bangDuLieu(SQL);            this.cobKHACHHANG.DisplayMember = "TENKHACHHANG";            this.cobKHACHHANG.ValueMember = "MAKHACHHANG";        }        public void LoadCOMBOBOXSANPHAM()        {            SQL=" SELECT MASP, TENSANPHAM FROM tbSANPHAM ";            cobTENSANPHAN.DataSource = xulydulieu.bangDuLieu(SQL);            cobTENSANPHAN.DisplayMember = "TENSANPHAM";            cobTENSANPHAN.ValueMember = "MASP";                  }        private void frmHOADONXUAT_Load(object sender, EventArgs e)        {            xulydulieu = new SQLXULYDULIEU();            LoadComboBoxKhach
+10:10:04	 From  THUẬN NGUYỄN TẤN : 19/4
+10:10:09	 From  Bùi Hữu Dự : vâng
+10:11:00	 From  Phan Tuấn Anh - 2321122511 : thầy gửi tài lieu ôn trắc nghiệm nữa thầy
+10:11:31	 From  THUẬN NGUYỄN TẤN : 17 kiem tra thuc hanhf
+10:11:38	 From  THUẬN NGUYỄN TẤN : thay on trac nghiem
+10:11:59	 From  Nguyễn Đức Huy-2321117989 : thôi kiểm tra dễ thôi thầy

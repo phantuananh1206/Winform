@@ -111,8 +111,28 @@ namespace QUANLYBANHANG
             }
             return flag;
         }
+        public object thucThiGiaTriDonThuTuc(String NameProcedure, SqlParameter[] pr)
+        {
+            try
+            {
+                this.moKetNoi();
+                SqlCommand cmd = new SqlCommand();
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Connection = this.con;
+                cmd.CommandText = NameProcedure;
+                if (pr != null)
+                    cmd.Parameters.AddRange(pr);
+                return cmd.ExecuteScalar();
+            }
+            catch (SqlException ex) { }
+            finally
+            {
+                this.dongKetNoi();
+            }
+            return null;
+        }
 
-        public DataTable bangDuLieu(String NameProcedure, SqlParameter[] pr)
+        public DataTable bangDuLieu2(String NameProcedure, SqlParameter[] pr)
         {
             DataTable tb = new DataTable();
             try

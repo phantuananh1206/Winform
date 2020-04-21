@@ -134,7 +134,7 @@ namespace QUANLYBANHANG
         private void mitTHEMMOISANPHAM_Click(object sender, EventArgs e)
         {
             frmQUANLYSANPHAM frmquanlysanpham = new frmQUANLYSANPHAM();
-            frmquanlysanpham.MASANPHAM = trvDANHMUC.SelectedNode.Tag.ToString();
+            frmquanlysanpham.MASP = trvDANHMUC.SelectedNode.Tag.ToString();
             frmquanlysanpham.ShowDialog();
             loadTreeView();
         }
