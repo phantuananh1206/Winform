@@ -27,8 +27,6 @@ namespace Quản_lý_điểm_sinh_vien_CNTT
 
         private void btnDangNhap_Click(object sender, EventArgs e)
         { 
-            
-
             string select = "Select * From tbllogin where tendn='" + txtTenDN.Text + "' and matkhau='" + txtMatKhau.Text + "' and Quyen='Admin'";
             SqlCommand cmd = new SqlCommand(select, conn);
             SqlDataReader reader;

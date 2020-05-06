@@ -24,23 +24,7 @@ namespace BTOOP3
                     return null;
             }
         }
-        //String[] array = { "le a", "le b", "le c" };
-
-        //public String this[int index]
-        //{
-        //    set
-        //    {
-        //        if (index >= 0 && index < array.Length)
-        //            array[index] = value;
-        //    }
-        //    get
-        //    {
-        //        if (index >= 0 && index < array.Length)
-        //            return array[index];
-        //        else
-        //            return null;
-        //    }
-        //}
+   
         public Danhsachnhanvien()
         {
             danhsach = new Dictionary<string, Nhanvien>();

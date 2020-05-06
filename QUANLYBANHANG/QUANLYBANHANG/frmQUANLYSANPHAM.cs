@@ -231,7 +231,6 @@ namespace QUANLYBANHANG
             {
                 //this.ptbANHSANPHAM.Image = Image.FromFile(OFileDlog.FileName);
                 this.ptbANHSANPHAM.ImageLocation = OFileDlog.FileName;
-
             }
         }
 

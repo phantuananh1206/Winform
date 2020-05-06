@@ -12,7 +12,6 @@ namespace BTOOP3
         {
             Danhsachnhanvien ds = new Danhsachnhanvien();
 
-            //Console.WriteLine(ds[0]);
             char C;
             Console.WriteLine("Nhap 'Y' de tiep tuc va nhan phim bat ky de thoat ");
             C = Char.Parse(Console.ReadLine());

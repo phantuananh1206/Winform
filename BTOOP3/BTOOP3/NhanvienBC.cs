@@ -59,7 +59,10 @@ namespace BTOOP3
         override public Double Tinhluong()
         {
             return this.Hesoluong * base.LUONGCOBAN + this.Phucap() - this.tamUngLuong();
-        }
+        }
+
+
+
 
     }
 }
